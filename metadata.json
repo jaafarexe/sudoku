@@ -1,0 +1,6 @@
+{
+  "name": "Sudoku Master",
+  "description": "Play classic Sudoku with smart hints, pencil notes, difficulty levels, mistake tracking, and statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
